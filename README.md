@@ -25,3 +25,14 @@ Nicholas was mostly responsible for game object modeling and created the player/
 
 # Project Files
 If I haven't yet migrated the files to this depository, all files should be publically available [at this link](https://github.com/mtobino/Senior_Project) thanks to my awesome team member Matt. 
+
+# Images
+![image](https://github.com/user-attachments/assets/1a78a527-e4e3-418e-97b2-976f32b094fa)
+![image](https://github.com/user-attachments/assets/244ea889-c6c4-45c1-a07c-cf53fa5464c4)
+![image](https://github.com/user-attachments/assets/03b10fe7-498a-46bd-9517-12654a0f884c)
+![image](https://github.com/user-attachments/assets/3d4d5c0d-dcbd-42df-abc1-4605db48a8d5)
+![image](https://github.com/user-attachments/assets/9ca5db86-d7ef-4d7b-8461-865389690526)
+
+
+
+
